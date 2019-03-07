@@ -1,14 +1,21 @@
-# noroff-vueapp
+# RecipePuppy 🐶🧁
 
-## Project setup
+## Step 1 - Clone/download repository!
+
+## Step 2 - Project setup
+
+After cloning repository, navigate to the project folder in your command line and run the following command
 ```
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
+
+To get the server up and running, simply run 
 ```
 yarn run serve
 ```
+in the project folder. 
 
 ### Compiles and minifies for production
 ```
@@ -25,5 +32,4 @@ yarn run test
 yarn run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+And with that, you should be good to go. If not, plz message me.
